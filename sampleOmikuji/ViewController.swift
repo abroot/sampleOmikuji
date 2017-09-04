@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     var flag = [0,0,0]
     var conf = 0
     var when = [1,2,3,4,5,6,7]
-    var withWho = ["chris","nine","とむさん","えりこ先生","sheena","era","kim"]
+    var withWho = ["chris","nine","とむさん","えりこ先生","sheena","era","差分"]
     var doWhat = ["英語でおしゃべり","英語でおしゃべり","昼寝","デート","英語のテキスト","プログラミング","ムエタイ"]
     
     @IBOutlet weak var whenLabel: UILabel!
